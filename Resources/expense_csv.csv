@@ -1,0 +1,4 @@
+id,createdAt,updatedAt,name,description,iconName,color,isDefault,userId
+1,2024-04-28T12:00:00Z,2024-04-28T12:00:00Z,Food,Expenses related to food,food,#FF5733,true,1
+2,2024-04-28T12:00:00Z,2024-04-28T12:00:00Z,Transport,Transportation expenses,transport,#45B39D,false,1
+3,2024-04-28T12:00:00Z,2024-04-28T12:00:00Z,Entertainment,Entertainment expenses,entertainment,#9B59B6,false,2
